@@ -4,6 +4,10 @@
 
 **ONS_OSS** (Object Naming Scenes - Open Source Software) is a set of Unity-based cognitive assessment games designed to be embedded within Flutter applications. The project provides voice-based assessment tasks where users describe visual scenes and stories, enabling evaluation of language production and cognitive abilities.
 
+### Licence
+The code and assets in this repository are released under the MIT License as required by the Fab Inc. grant agreement.
+Certain components of the Trackosaurus platform (including non-federated Unity assets, the AWS backend, and Flutter front end) are proprietary and excluded from this license.
+
 ### Game Description
 The application presents users with animated visual scenarios and prompts them to describe what they see. Each assessment consists of carefully designed scenes with accompanying video animations that tell short stories, requiring verbal responses from participants.
 
